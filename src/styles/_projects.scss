@@ -67,6 +67,22 @@
   }
 }
 
+.disabled-link {
+  display: inline-block;
+  margin: 10px 0px;
+  padding: 5px;
+  color: $main;
+  background-color: transparent;
+  border: 1px solid $main;
+  border-radius: 10px;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  cursor: grab;
+  transition: color 0.3s ease-out,
+              background-color 0.3s ease-out,
+              border-color 0.3s ease-out;
+
 .project-link {
   display: inline-block;
   margin: 10px 0px;
