@@ -1,8 +1,8 @@
 # Site settings
 title: Clifford Robinson | Digital Media
 description: Hello, I'm Clifford, A JavaScript Developer and also a Digital Media Student!
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "https://bean.wtf" # the subpath of your site, e.g. /blog
+url: "https://bean.wtf" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Clifford Robinson
